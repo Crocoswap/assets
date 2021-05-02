@@ -1,0 +1,12 @@
+{
+    "name": "Staked FTM",
+    "website": "https://fantom.foundation/defi",
+    "description": "Liquidity token that is obtained by mining them with the FTMs that are in staking.",
+    "explorer": "https://ftmscan.com/token/0x69c744d3444202d35a2783929a0f930f2fbb05ad",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "SFTM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x69c744d3444202d35a2783929a0f930f2fbb05ad"
+}

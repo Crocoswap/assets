@@ -1,0 +1,12 @@
+{
+    "name": "Synth sUSD",
+    "website": "https://www.synthetix.io",
+    "description": "A synthetic asset issued by the Synthetix protocol which tracks the price of the United States Dollar (USD). sUSD can be traded on Synthetix.Exchange for other synthetic assets through a peer-to-contract system with no slippage.",
+    "explorer": "https://ftmscan.com/token/0x0E1694483eBB3b74d3054E383840C6cf011e518e",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "sUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0E1694483eBB3b74d3054E383840C6cf011e518e"
+}

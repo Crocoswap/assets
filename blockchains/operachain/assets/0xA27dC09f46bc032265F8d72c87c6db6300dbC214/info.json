@@ -1,0 +1,12 @@
+{
+    "name": "Croco Token",
+    "website": "https://crocoswap.org",
+    "description": "Croco Token (CROCO) is a token on Fantom Opera Chain issued by Crocoswap and it has utility into crocoswap ecosystem for yield farming.",
+    "explorer": "https://ftmscan.com/token/0x8547B64ED531Ba02030844b1356F68EEa99FC4F1",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "CROCO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8547B64ED531Ba02030844b1356F68EEa99FC4F1"
+}

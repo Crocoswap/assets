@@ -1,0 +1,12 @@
+{
+    "name": "Hegic",
+    "website": "https://www.hegic.co",
+    "description": "Hegic is an on-chain peer-to-pool options trading protocol built on Ethereum.",
+    "explorer": "https://ftmscan.com/token/0x44b26e839eb3572c5e959f994804a5de66600349",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "HEGIC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x44b26e839eb3572c5e959f994804a5de66600349"
+}

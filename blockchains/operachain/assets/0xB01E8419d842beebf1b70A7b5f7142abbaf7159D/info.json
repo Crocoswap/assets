@@ -1,0 +1,12 @@
+{
+    "name": "Cover Protocol Governance",
+    "website": "https://www.coverprotocol.com",
+    "description": "Peer-to-peer Coverage with Fungible Tokens",
+    "explorer": "https://ftmscan.com/token/0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "COVER",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D"
+}

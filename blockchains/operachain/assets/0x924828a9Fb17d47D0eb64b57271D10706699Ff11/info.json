@@ -1,0 +1,12 @@
+{
+    "name": "Spice",
+    "website": "https://saffron.finance",
+    "description": "Saffron is an asset collateralization platform where liquidity providers have access to dynamic exposure by selecting customized risk and return profiles.",
+    "explorer": "https://ftmscan.com/token/0x924828a9Fb17d47D0eb64b57271D10706699Ff11",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "SFI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x924828a9Fb17d47D0eb64b57271D10706699Ff11"
+}
